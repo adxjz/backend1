@@ -1,0 +1,23 @@
+# Ignore root-level files (keep only backend folder)
+/api-integration.js
+/index.js
+/package-lock.json
+/sample-react-component.jsx
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build outputs
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
